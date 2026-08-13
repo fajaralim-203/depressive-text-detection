@@ -40,6 +40,10 @@ Linear SVC performed slightly better than Logistic Regression, reaching 95.16% a
 
 These results show that all three models performed well on our test data, while BERT produced the strongest results. However, these scores describe performance on this specific dataset and do not mean that any of the models can diagnose depression.
 
+### Model Performance Visualization
+
+![Model Performance Metrics](Screenshot%202026-08-12%20230644.png)
+
 ### Models Compared
 
 1. **Logistic Regression**
